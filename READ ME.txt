@@ -1,0 +1,6 @@
+
+
+This my first project ever in python, in the .rar file you can find the csv files which will help you run the code
+
+
+The code is a small example of using python language in data analysis 
